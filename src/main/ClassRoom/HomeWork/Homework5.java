@@ -26,34 +26,22 @@ public class Homework5 {
         double double2 = 15.5d;
         double double3 = 16.6d;
 
-        boolean  boolean1 = true;
+        boolean boolean1 = true;
         boolean boolean2 = false;
 
         char char1 = '!';
         char char2 = '/';
         char char3 = '?';
 
-        System.out.println(num1 + ","  + num2 + "," + num3);
-        System.out.println(short1 + ","  + short2 + ","  + short3);
-        System.out.println(int1 + ","  + int2 + ","  + int3);
-        System.out.println(long1 + ","  + long2 + ","  + long3);
-        System.out.println(float1 + "," + float2 + ","  + float3);
-        System.out.println(double1 + ","  + double2 + ","  + double3);
+        System.out.println(num1 + "," + num2 + "," + num3);
+        System.out.println(short1 + "," + short2 + "," + short3);
+        System.out.println(int1 + "," + int2 + "," + int3);
+        System.out.println(long1 + "," + long2 + "," + long3);
+        System.out.println(float1 + "," + float2 + "," + float3);
+        System.out.println(double1 + "," + double2 + "," + double3);
         System.out.println(boolean1);
         System.out.println(boolean2);
-        System.out.println(char1 + ","  + char2 + ","  + char3);
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println(char1 + "," + char2 + "," + char3);
 
 
     }
